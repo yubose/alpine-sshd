@@ -1,0 +1,2 @@
+s/^.*PasswordAuthentication yes/PasswordAuthentication no/
+s/^.*X11Forwarding no/X11Forwarding yes/
